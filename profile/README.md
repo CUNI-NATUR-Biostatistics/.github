@@ -1,18 +1,18 @@
-# Biostatistika – CUNI-NATUR-Biostatistics
+# Biostatistics – CUNI-NATUR-Biostatistics
 
-Tato organizace spravuje materiály pro kurz **Biostatistika (MB120P163)** vyučovaný na [Přírodovědecké fakultě Univerzity Karlovy](https://www.natur.cuni.cz/).
+This organisation hosts materials for the course **Biostatistics (MB120P163)** taught at the [Faculty of Science, Charles University](https://www.natur.cuni.cz/eng).
 
-## O kurzu
+## About the course
 
-Kurz je určen studentům biologie a ekologie bez předchozích zkušeností se statistikou nebo programováním. Cílem je vybudovat schopnost samostatně plánovat analýzu biologických dat, provádět ji v prostředí R a správně interpretovat výsledky.
+The course is designed for biology and ecology students with little or no prior experience in statistics or programming. The goal is to build the ability to independently plan and carry out analyses of biological data in R, and to correctly interpret the results.
 
-> Většina repozitářů je privátní. Studentům jsou materiály distribuovány přes Moodle ve formě PDF/HTML.
+> Most repositories are private. Students receive materials as PDF/HTML via Moodle.
 
-## Vyučující (2026/27)
+## Teaching team (2026/27)
 
-**Vedoucí vyučující:** Ondřej Mottl  
-Tým: Tomáš Herben, Jiří Hadrava, Vojtěch Abraham, Tomáš Jor, Eva Matoušková, Natálie Námešná
+**Course coordinator:** Ondřej Mottl  
+Team: Tomáš Herben, Jiří Hadrava, Vojtěch Abraham, Tomáš Jor, Eva Matoušková, Natálie Námešná
 
-## Kontakt
+## Contact
 
-Dotazy ke kurzu směřujte přes [SIS UK](https://is.cuni.cz/) nebo přímo na vedoucího vyučujícího.
+Course-related queries should be directed via [Charles University SIS](https://is.cuni.cz/studium/?lang=en) or directly to the course coordinator.
